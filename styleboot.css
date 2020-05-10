@@ -1,0 +1,271 @@
+
+.background{
+  background-color: #393e46;
+}
+
+.navbar{
+  background-color: #222831;
+}
+
+
+.navbar-brand{
+  color: White;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.navbar-brand:hover{
+  color: White;
+}
+.nav-link{
+  color: #3282b8;
+}
+.nav-link:hover{
+  color: #0f4c75;
+}
+
+.display-4{
+  color: #3282b8;
+}
+
+.lead{
+  color: #bbe1fa;
+}
+
+.jumbotron1 {
+  text-align: center;
+  background-color: #393e46;
+  padding: 4rem 2rem;
+  border-radius: .3rem;
+
+}
+.Icons{
+  margin: auto;
+  padding-top: 5%;
+  padding-bottom: 0%;
+  background-color: #222831;
+  color: #bbe1fa;
+}
+
+
+.secRow{
+  margin: auto;
+}
+
+table{
+  margin-left:auto;
+  margin-right:auto;
+}
+.pad{
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.set0{
+  width: 65%;
+  height: 65%;
+  margin-left:20%;
+}
+.btn.btn-primary{
+  margin-left: 1%;
+  background-color: #3282b8;
+  border-color: #0f4c75;
+}
+.btn.btn-primary:hover{
+  background-color: #0f4c75;
+}
+
+.btn.btn-outline-success{
+  margin-right: 1%;
+}
+
+.set1{
+  font-size: 1.4rem;
+  text-align: center;
+  margin-top: 3%;
+  color: White;
+}
+
+.elfsight-app-43829bb8-4ce1-4285-8608-5aa4a5c0ff2d{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+.social a {
+  padding: 0 .5em;
+}
+
+.pt-5{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: #393e46;
+}
+.gallery{
+  color: #3282b8;
+
+}
+.about{
+  margin-bottom: 3%;
+}
+.card-body{
+  background-color: #222831;
+  color: #bbe1fa;
+}
+
+.card-title{
+  color: White;
+}
+
+
+.pricing4 h2 {
+  color: #3282b8;
+
+}
+.pricing4 h5{
+  color: White;
+}
+
+.pricing4 h6{
+  color: #bbe1fa;
+}
+
+.pricing4 h1,
+.pricing4 h3,
+.pricing4 h4{
+  color: #bbe1fa;
+}
+
+.pricing4 .font-weight-medium {
+  font-weight: 500;
+}
+
+.pricing4 .bg-light {
+  background-color: #f4f8fa !important;
+}
+
+.p-3{
+  background-color: #222831;
+}
+
+.pricing4 .subtitle {
+  color: #8d97ad;
+  line-height: 24px;
+}
+
+.pricing4 .font-14 {
+  font-size: 14px;
+}
+
+.pricing4 .font-13 {
+  font-size: 13px;
+}
+
+.pricing4 .card.card-shadow {
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+
+.pricing4 .text-success {
+  color: #bbe1fa;
+}
+
+
+
+.pricing4 h5 {
+    line-height: 22px;
+    font-size: 18px;
+}
+
+.pricing4 .btn-danger-gradiant {
+  background:#3282b8;
+
+}
+
+ .pricing4 .btn-danger-gradiant:hover {
+  background: #ff6a5b;
+
+}
+
+.pricing4 .btn-md {
+    padding: 10px 25px;
+    font-size: 16px;
+}
+.list-inline{
+  color: #bbe1fa;
+}
+
+.youtube{
+  background-color: #222831;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+}
+.yout{
+  color: #3282b8;
+  margin-bottom: 3%;
+}
+
+.pt-5.cw{
+  background-color: #222831;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.frame{
+  margin: .3%;
+}
+
+.footer{
+  padding: 5%;
+  background-color: #222831;
+  text-align: center;
+}
+h3.social-font{
+  color: White;
+}
+
+.social{
+  margin-bottom: 5%;
+}
+.about_us{
+
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.location{
+
+  text-align: center;
+  margin-left: 15%;
+  margin-right: auto;
+}
+.fontsize{
+  font-size: 22px;
+  font-weight: 700;
+  text-align:left;
+  color: #3282b8;
+  margin: 2%;
+  margin-left: 9%;
+  margin-bottom: 3%;
+}
+
+.story{
+
+  margin-left: 13%;
+  margin-right: 13%;
+  color: #bbe1fa;
+  font-weight: 100;
+  text-align: justify;
+}
+
+.dp{
+  margin-left: 45%;
+  margin-right:45%;
+  width: 10%;
+  height: 10%;
+  margin-top: 3%;
+}
+.story.name{
+  text-align: center;
+  font-size: 1rem;
+}
